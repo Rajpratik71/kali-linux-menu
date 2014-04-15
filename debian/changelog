@@ -1,3 +1,9 @@
+kali-menu (1.368) kali; urgency=low
+
+  * Edited the burpsuite desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Tue, 15 Apr 2014 09:53:33 -0600
+
 kali-menu (1.367) kali; urgency=low
 
   * Added some missing desktop entries
