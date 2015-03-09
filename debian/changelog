@@ -1,6 +1,7 @@
 kali-menu (1.371.1) kali; urgency=medium
 
   * Update entry for zaproxy to match the rename of the executable
+  * Fix Vcs git in debian/control
 
  -- Sophie Brun <sophie@freexian.com>  Mon, 09 Mar 2015 15:01:12 +0100
 

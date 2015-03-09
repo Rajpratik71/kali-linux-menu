@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Raphaël Hertzog <hertzog@debian.org>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
-Vcs-Git: ssh://git@git.kali.org/packages/kali-menu.git
+Vcs-Git: git://git.kali.org/packages/kali-menu.git
 Vcs-Browser: http://git.kali.org/gitweb/?p=packages/kali-menu.git;a=summary
 
 Package: kali-menu
