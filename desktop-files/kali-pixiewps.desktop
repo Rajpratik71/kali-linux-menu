@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=reaver
+Name=pixiewps
 Encoding=UTF-8
-Exec=sh -c "reaver -h;${SHELL:-bash}"
+Exec=sh -c "pixiewps -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-01-wireless-tools;
-X-Kali-Package=reaver
+X-Kali-Package=pixiewps
