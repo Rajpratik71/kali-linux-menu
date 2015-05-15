@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=veil-catapult
+Encoding=UTF-8
+Exec=sh -c "veil-catapult -h;${SHELL:-bash}"
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-01-os-backdoors;
+X-Kali-Package=veil-catapult
