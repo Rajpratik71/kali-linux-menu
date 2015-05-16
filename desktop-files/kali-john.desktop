@@ -2,9 +2,9 @@
 Name=john
 Encoding=UTF-8
 Exec=sh -c "john;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=john.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-02-offline-attacks;top10;
+Categories=04-02-offline-attacks;
 X-Kali-Package=john

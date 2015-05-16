@@ -2,9 +2,9 @@
 Name=aircrack-ng
 Encoding=UTF-8
 Exec=sh -c "aircrack-ng --help;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=aircrack.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-01-wireless-tools;top10;
+Categories=05-01-wireless-tools;
 X-Kali-Package=aircrack-ng

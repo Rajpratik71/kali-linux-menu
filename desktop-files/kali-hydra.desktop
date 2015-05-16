@@ -2,11 +2,11 @@
 Name=hydra
 Encoding=UTF-8
 Exec=sh -c "hydra -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=hydra.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-01-online-attacks;top10;
+Categories=04-01-online-attacks;
 X-Kali-Package=hydra
 
 

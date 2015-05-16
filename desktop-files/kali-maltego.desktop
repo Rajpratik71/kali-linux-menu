@@ -2,9 +2,9 @@
 Name=maltego
 Encoding=UTF-8
 Exec=sh -c "maltego"
-Icon=kali-menu.png
+Icon=maltego.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=01-01-dns-analysis;01-07-osint-analysis;02-04-open-source-assessment;13-01-evidence-management;top10;
+Categories=01-01-dns-analysis;01-07-osint-analysis;02-04-open-source-assessment;13-01-evidence-management;
 X-Kali-Package=maltego
