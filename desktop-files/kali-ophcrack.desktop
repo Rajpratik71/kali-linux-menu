@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=04-02-offline-attacks;
+Categories=04-password-attacks;
 X-Kali-Package=ophcrack

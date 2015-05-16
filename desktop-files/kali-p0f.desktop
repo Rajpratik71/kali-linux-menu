@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-05-network-traffic-analysis;12-09-network-forensics;
+Categories=01-05-network-traffic-analysis;
 X-Kali-Package=p0f

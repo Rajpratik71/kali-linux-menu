@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=02-04-open-source-assessment;01-07-osint-analysis;
+Categories=01-info-gathering;
 X-Kali-Package=recon-ng

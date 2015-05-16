@@ -6,5 +6,5 @@ Icon=w3af.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=03-05-web-vulnerability-scanners;
+Categories=03-web-applications;
 X-Kali-Package=w3af

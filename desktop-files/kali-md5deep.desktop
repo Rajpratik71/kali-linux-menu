@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=12-06-forensic-hashing-tools;
+Categories=12-forensics;
 X-Kali-Package=md5deep

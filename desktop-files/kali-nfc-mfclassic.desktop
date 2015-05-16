@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-03-01-nfc-tools;
+Categories=05-03-rfid-nfc-tools;
 X-Kali-Package=libnfc-bin
