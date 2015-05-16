@@ -2,7 +2,7 @@
 Name=openvas-gsd
 Encoding=UTF-8
 Exec=sh -c "gsd"
-Icon=kali-menu.png
+Icon=OpenVas.png
 StartupNotify=false
 Terminal=false
 Type=Application

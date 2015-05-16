@@ -2,7 +2,7 @@
 Name=edb-debugger
 Encoding=UTF-8
 Exec=sh -c "edb;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=exploitation-tools-trans.png
 StartupNotify=false
 Terminal=false
 Type=Application

@@ -2,9 +2,9 @@
 Name=ollydbg
 Encoding=UTF-8
 Exec=sh -c "ollydbg"
-Icon=kali-menu.png
+Icon=exploitation-tools-trans.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=09-01-debuggers;06-10-exploit-dev;
+Categories=09-01-debuggers;
 X-Kali-Package=ollydbg
