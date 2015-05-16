@@ -2,7 +2,7 @@
 Name=community / pro stop
 Encoding=UTF-8
 Exec=sh -c "/opt/metasploit/scripts/stop.sh;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=metasploit.png
 StartupNotify=false
 Terminal=true
 Type=Application

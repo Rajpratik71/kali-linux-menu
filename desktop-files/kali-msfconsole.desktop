@@ -2,7 +2,7 @@
 Name=metasploit framework
 Encoding=UTF-8
 Exec=sh -c "msfconsole;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=metasploit.png
 StartupNotify=false
 Terminal=true
 Type=Application

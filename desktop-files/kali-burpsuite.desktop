@@ -2,7 +2,7 @@
 Name=burpsuite
 Encoding=UTF-8
 Exec=sh -c "java -jar /usr/bin/burpsuite"
-Icon=burp.png
+Icon=burpsuite.png
 StartupNotify=false
 Terminal=false
 Type=Application
