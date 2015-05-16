@@ -2,7 +2,7 @@
 Name=beef start
 Encoding=UTF-8
 Exec=sh -c "service beef-xss start;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=beef.png
 StartupNotify=false
 Terminal=true
 Type=Application
