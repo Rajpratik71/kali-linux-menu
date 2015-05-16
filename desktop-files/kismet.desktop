@@ -2,7 +2,7 @@
 Name=kismet
 Encoding=UTF-8
 Exec=sh -c "kismet -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=kismet.png
 StartupNotify=false
 Terminal=true
 Type=Application
