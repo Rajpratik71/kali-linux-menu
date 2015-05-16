@@ -2,7 +2,7 @@
 Name=armitage
 Encoding=UTF-8
 Exec=sh -c "armitage;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=armitage.png
 StartupNotify=false
 Terminal=false
 Type=Application

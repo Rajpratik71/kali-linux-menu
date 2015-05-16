@@ -2,7 +2,7 @@
 Name=w3af
 Encoding=UTF-8
 Exec=sh -c "w3af"
-Icon=kali-menu.png
+Icon=w3af.png
 StartupNotify=false
 Terminal=false
 Type=Application
