@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=11-01-android-tools;09-03-misc-tools;
+Categories=11-01-android-tools;07-reverseengineer;
 X-Kali-Package=dex2jar

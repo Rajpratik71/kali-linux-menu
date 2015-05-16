@@ -6,5 +6,5 @@ Icon=burp.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=03-web-applications;
+Categories=03-webapp-analysis;
 X-Kali-Package=burpsuite

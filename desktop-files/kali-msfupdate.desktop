@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-02-metasploit-framework;
+Categories=08-01-metasploit-framework;
 X-Kali-Package=metasploit-framework

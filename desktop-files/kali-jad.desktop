@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-02-disassembly;
+Categories=07-reverseengineer;
 X-Kali-Package=jad

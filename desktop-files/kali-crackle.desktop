@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-02-offline-attacks;05-02-bluetooth-tools;
+Categories=05-02-offline-attacks;06-02-bluetooth-tools;
 X-Kali-Package=crackle

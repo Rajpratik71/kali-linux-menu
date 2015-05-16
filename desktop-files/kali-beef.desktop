@@ -6,5 +6,5 @@ Icon=beef.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-05-beef-xss-framework;
+Categories=08-exploitation-tools;
 X-Kali-Package=beef-xss

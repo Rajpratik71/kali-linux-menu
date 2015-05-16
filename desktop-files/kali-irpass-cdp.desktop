@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-05-network-traffic-analysis;
+Categories=01-08-route-analysis;
 X-Kali-Package=irpas

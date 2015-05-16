@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=03-06-web-application-proxies;
+Categories=03-webapp-analysis;
 X-Kali-Package=paros

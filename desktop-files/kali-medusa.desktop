@@ -6,7 +6,7 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=04-password-attacks;
+Categories=05-password-attacks;
 X-Kali-Package=medusa
 
 

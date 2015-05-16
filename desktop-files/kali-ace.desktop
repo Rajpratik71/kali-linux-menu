@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-14-telephony-analysis;01-15-voip-analysis;07-01-02-voip-tools;
+Categories=07-01-02-voip-tools;
 X-Kali-Package=ace

@@ -6,5 +6,5 @@ Icon=metasploit.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-10-exploit-dev;
+Categories=07-reverseengineer;
 X-Kali-Package=metasploit-framework

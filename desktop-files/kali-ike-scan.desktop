@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-16-vpn-analysis;
+Categories=01-info-gathering;
 X-Kali-Package=ike-scan

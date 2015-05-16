@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=06-10-exploit-dev;
+Categories=08-exploitation-tools;
 X-Kali-Package=shellnoob

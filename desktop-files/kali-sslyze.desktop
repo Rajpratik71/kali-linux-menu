@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-13-ssl-analysis;01-09-service-fingerprinting;
+Categories=01-13-ssl-analysis;
 X-Kali-Package=sslyze

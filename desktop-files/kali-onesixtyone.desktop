@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-12-snmp-analysis;04-01-online-attacks;
+Categories=01-12-snmp-analysis;05-01-online-attacks;
 X-Kali-Package=onesixtyone

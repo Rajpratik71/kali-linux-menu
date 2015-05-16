@@ -6,7 +6,7 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-10-smb-analysis;04-04-pass-hash;
+Categories=01-10-smb-analysis;05-04-pass-hash;
 X-Kali-Package=smbmap
 
 

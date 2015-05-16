@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=05-01-wireless-tools;
+Categories=06-01-wireless-tools;
 X-Kali-Package=fern-wifi-cracker

@@ -6,5 +6,5 @@ Icon=exploitation-tools-trans.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=09-01-debuggers;
+Categories=07-reverseengineer;
 X-Kali-Package=ollydbg

@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-03-misc-tools;
+Categories=07-reverseengineer;
 X-Kali-Package=flasm

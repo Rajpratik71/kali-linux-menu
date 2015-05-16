@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-03-ids-ips-identification;01-05-network-traffic-analysis;
+Categories=01-03-ids-ips-identification;
 X-Kali-Package=ftester

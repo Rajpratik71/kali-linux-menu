@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=05-wireless-attacks;
+Categories=06-wireless-attacks;
 X-Kali-Package=pixiewps
