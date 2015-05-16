@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-13-ssl-analysis;08-02-tunneling;
+Categories=01-13-ssl-analysis;10-02-tunneling;
 X-Kali-Package=sslh

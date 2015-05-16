@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=14-12-xplico-service;12-09-network-forensics;
+Categories=14-12-xplico-service;11-forensics;
 X-Kali-Package=xplico

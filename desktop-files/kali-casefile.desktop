@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=01-07-osint-analysis;13-01-evidence-management;
+Categories=01-07-osint-analysis;12-reporting;
 X-Kali-Package=casefile

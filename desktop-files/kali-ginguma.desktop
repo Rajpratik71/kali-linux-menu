@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=06-09-inguma;
+Categories=08-exploitation-tools;
 X-Kali-Package=inguma

@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-13-ssl-analysis;07-03-network-sniffers;
+Categories=01-13-ssl-analysis;09-01-network-sniffers;
 X-Kali-Package=sslsniff

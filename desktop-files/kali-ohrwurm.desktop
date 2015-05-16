@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=07-02-voip-tools;02-02-fuzzers;
+Categories=02-03-voip-tools;02-02-fuzzers;
 X-Kali-Package=ohrwurm

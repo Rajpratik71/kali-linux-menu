@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=07-05-web-sniffers;
+Categories=09-sniffing-spoofing;
 X-Kali-Package=hamster-sidejack

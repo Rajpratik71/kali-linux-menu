@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=13-03-documentation;
+Categories=12-reporting;
 X-Kali-Package=keepnote

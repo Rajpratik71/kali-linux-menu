@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=12-forensics;
+Categories=11-forensics;
 X-Kali-Package=volafox

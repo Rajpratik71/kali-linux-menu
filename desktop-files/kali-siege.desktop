@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=10-01-network-stress-testing;
+Categories=02-07-stress-testing;
 X-Kali-Package=siege

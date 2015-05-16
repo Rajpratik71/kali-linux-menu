@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=13-01-evidence-management;
+Categories=12-reporting;
 X-Kali-Package=truecrypt
