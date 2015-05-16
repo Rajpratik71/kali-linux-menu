@@ -1,8 +1,6 @@
 <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
 
-<Menu>
-<Name>Kali Applications</Name>
 <!-- Kali submenu -->
 <Menu>
 	<Name>Kali</Name>
@@ -20,7 +18,6 @@
 		<Menuname>Maintaining Access</Menuname>
 		<Menuname>Reverse Engineering</Menuname>
 		<Menuname>Stress Testing</Menuname>
-		<Menuname>Hardware Hacking</Menuname>
 		<Menuname>Forensic Tools</Menuname>
 		<Menuname>Reporting Tools</Menuname>
 		<Menuname>System Services</Menuname>
@@ -253,7 +250,7 @@
 		<Directory>03-web-applications.directory</Directory>
 
 		<Menu>
-			<Name>CMS Identification</Name>
+			<Name>CMS and Site Identification</Name>
 			<Directory>03-01-cms-identification.directory</Directory>
 			<Include><And>
 				<Category>03-01-cms-identification</Category>
@@ -439,13 +436,13 @@
 <Menu>
 	<Name>Exploitation Tools</Name>
 	<Directory>06-exploitation-tools.directory</Directory>
-	<Menu>
-		<Name>Cisco Attacks</Name>
-		<Directory>06-01-cisco-attacks.directory</Directory>
-		<Include><And>
-			<Category>06-01-cisco-attacks</Category>
-		</And></Include>
-	</Menu>
+		<Menu>
+			<Name>Cisco Tools</Name>
+			<Directory>02-01-cisco-tools.directory</Directory>
+			<Include><And>
+				<Category>02-01-cisco-tools</Category>
+			</And></Include>
+		</Menu>
 
 	<Menu>
 		<Name>Metasploit Framework</Name>
@@ -454,77 +451,28 @@
 			<Category>06-02-metasploit-framework</Category>
 		</And></Include>
 	</Menu>
-		
-	<Menu>
-		<Name>SAP Exploitation</Name>
-		<Directory>06-03-sap-exploitation.directory</Directory>
+
 		<Include><And>
 			<Category>06-03-sap-exploitation</Category>
 		</And></Include>
-	</Menu>
-
-		<Menu>
-			<Name>Network Exploitation</Name>
-			<Directory>06-04-network-exploitation.directory</Directory>
-			<Include><And>
-				<Category>06-04-network-exploitation</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>BeEF XSS Framework</Name>
-			<Directory>06-05-beef-xss-framework.directory</Directory>
-			<Include><And>
-				<Category>06-05-beef-xss-framework</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Social Engineering Toolkit</Name>
-			<Directory>06-06-social-engineering-toolkit.directory</Directory>
-			<Include><And>
-				<Category>06-06-social-engineering-toolkit</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Exploit-DB</Name>
-			<Directory>06-07-exploit-db.directory</Directory>
-			<Include><And>
-				<Category>06-07-exploit-db</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Online Archives</Name>
-			<Directory>06-08-online-archives.directory</Directory>
-			<Include>
-			<And>
-				<Category>06-08-online-archives</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Inguma Toolkit</Name>
-			<Directory>06-09-inguma.directory</Directory>
-			<Include>
-			<And>
-				<Category>06-09-inguma</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Exploit Development Utilities</Name>
-			<Directory>06-10-exploit-dev.directory</Directory>
-			<Include>
-			<And>
-				<Category>06-10-exploit-dev</Category>
-			</And></Include>
-		</Menu>
-
-
-
-
+		<Include><And>
+			<Category>06-04-network-exploitation</Category>
+		</And></Include>
+		<Include><And>
+			<Category>06-05-beef-xss-framework</Category>
+		</And></Include>
+		<Include><And>
+			<Category>06-07-exploit-db</Category>
+		</And></Include>
+		<Include><And>
+			<Category>06-08-online-archives</Category>
+		</And></Include>
+		<Include><And>
+			<Category>06-09-inguma</Category>
+		</And></Include>
+		<Include><And>
+			<Category>06-10-exploit-dev</Category>
+		</And></Include>
 	</Menu>
 
 	<Menu>
@@ -637,65 +585,18 @@
 		<Include><And>
 			<Category>10-stress-testing</Category>
 		</And></Include>
-		<Menu>
-			<Name>Network Stress Testing</Name>
-			<Directory>10-01-network-stress-testing.directory</Directory>
 			<Include><And>
 				<Category>10-01-network-stress-testing</Category>
 			</And></Include>
-		</Menu>
-		
-		<Menu>
-			<Name>WLAN Stress Testing</Name>
-			<Directory>10-02-wlan-stress-testing.directory</Directory>
 			<Include><And>
 				<Category>10-02-wlan-stress-testing</Category>
 			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>VoIP Stress Testing</Name>
-			<Directory>10-03-voip-stress-testing.directory</Directory>
 			<Include><And>
 				<Category>10-03-voip-stress-testing</Category>
 			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Web Stress Testing</Name>
-			<Directory>10-04-web-stress-testing.directory</Directory>
 			<Include><And>
 				<Category>10-04-web-stress-testing</Category>
 			</And></Include>
-		</Menu>
-	</Menu>
-
-	<Menu>
-		<Name>Hardware Hacking</Name>
-		<Directory>11-hardware-hacking.directory</Directory>
-		<Menu>
-			<Name>Android Tools</Name>
-			<Directory>11-01-android-tools.directory</Directory>
-			<Include><And>
-				<Category>11-01-android-tools</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Arduino Tools</Name>
-			<Directory>11-02-arduino-tools.directory</Directory>
-			<Include><And>
-				<Category>11-02-arduino-tools</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Teensy Tools</Name>
-			<Directory>11-03-teensy-tools.directory</Directory>
-			<Include><And>
-				<Category>11-03-teensy-tools</Category>
-			</And></Include>
-		</Menu>
 	</Menu>
 
 	<Menu>
@@ -801,32 +702,15 @@
 	<Menu>
 		<Name>Reporting Tools</Name>
 		<Directory>13-reporting.directory</Directory>
-		<Menu>
-			<Name>Evidence Management</Name>
-			<Directory>13-01-evidence-management.directory</Directory>
 			<Include><And>
 				<Category>13-01-evidence-management</Category>
 			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Media Capture</Name>
-			<Directory>13-02-media-capture.directory</Directory>
 			<Include><And>
 				<Category>13-02-media-capture</Category>
 			</And></Include>
-		</Menu>
-
-               <Menu>
-                        <Name>Documentation Management</Name>
-                        <Directory>13-03-documentation.directory</Directory>
                         <Include><And>
                                 <Category>13-03-documentation</Category>
                         </And></Include>
-                </Menu>
-
-
-
 
 	</Menu>
 
@@ -953,7 +837,6 @@
             </Include>
         </Menu>
     </Menu>
-</Menu>
 </Menu>
 
 

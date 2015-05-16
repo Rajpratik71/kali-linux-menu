@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=03-02-ids-ips-identification;
+Categories=03-01-cms-identification;
 X-Kali-Package=ua-tester
