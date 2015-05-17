@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=02-02-fuzzers;03-07-web-application-fuzzers;
+Categories=02-02-fuzzers;03-05-web-vulnerability-scanners;
 X-Kali-Package=powerfuzzer
