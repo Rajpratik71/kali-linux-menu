@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=metasploit framework
 Encoding=UTF-8
-Exec=sh -c "msfconsole;${SHELL:-bash}"
+Exec=sh -c "service postgresql start && service metasploit start && msfconsole;${SHELL:-bash}"
 Icon=metasploit.png
 StartupNotify=false
 Terminal=true
