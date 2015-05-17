@@ -179,6 +179,15 @@
 				</And></Include>	
 			</Menu>
 
+	                <Menu>
+       	                	<Name>WebApp Proxies</Name>
+	       	                 <Directory>03-06-web-application-proxies.directory</Directory>
+	                        <Include><And>
+	                                <Category>03-06-web-application-proxies</Category>
+        	                </And></Include>
+               	 	</Menu>
+
+
 			<Menu>
 				<Name>Web Vulnerability Scanners</Name>
 				<Directory>03-05-web-vulnerability-scanners.directory</Directory>
@@ -225,6 +234,15 @@
 					<Category>05-04-pass-hash</Category>
 				</And></Include>
 			</Menu>
+
+                        <Menu>
+                                <Name>Password Profiling</Name>
+                                <Directory>05-05-profile.directory</Directory>
+                                <Include><And>
+                                        <Category>05-05-profile</Category>
+                                </And></Include>
+                        </Menu>
+
 
 		</Menu>
 
@@ -408,22 +426,6 @@
 			<Directory>11-06-forensic-hashing-tools.directory</Directory>
 			<Include><And>
 				<Category>11-06-forensic-hashing-tools</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Forensic Analysis Tools</Name>
-			<Directory>11-04-forensic-analysis-tools.directory</Directory>
-			<Include><And>
-				<Category>11-04-forensic-analysis-tools</Category>
-			</And></Include>
-		</Menu>
-
-		<Menu>
-			<Name>Forensic Carving Tools</Name>
-			<Directory>12-05-forensic-carving-tools.directory</Directory>
-			<Include><And>
-				<Category>12-05-forensic-carving-tools</Category>
 			</And></Include>
 		</Menu>
 
