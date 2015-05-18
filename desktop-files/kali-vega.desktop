@@ -2,7 +2,7 @@
 Name=vega
 Encoding=UTF-8
 Exec=sh -c "vega"
-Icon=kali-menu.png
+Icon=vega.png
 StartupNotify=false
 Terminal=false
 Type=Application

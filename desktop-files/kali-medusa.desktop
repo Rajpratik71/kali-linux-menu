@@ -2,7 +2,7 @@
 Name=medusa
 Encoding=UTF-8
 Exec=sh -c "medusa -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=medusa.png
 StartupNotify=false
 Terminal=true
 Type=Application
