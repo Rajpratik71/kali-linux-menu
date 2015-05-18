@@ -2,7 +2,7 @@
 Name=nikto
 Encoding=UTF-8
 Exec=sh -c "nikto -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=nikto.png
 StartupNotify=false
 Terminal=true
 Type=Application
