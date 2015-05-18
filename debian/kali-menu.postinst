@@ -8,5 +8,9 @@ if [ "$1" = "configure" ] && dpkg --compare-versions "$2" lt "0.83"; then
     /usr/share/kali-menu/update-kali-menu </dev/null >/dev/null 2>&1 &
 fi
 
+if which dconf 2>/dev/null; then
+    dconf update || true
+fi
+
 #DEBHELPER#
 

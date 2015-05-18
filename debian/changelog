@@ -1,3 +1,9 @@
+kali-menu (2.1) UNRELEASED; urgency=medium
+
+  * Add a dconf override file to setup App Folders for GNOME Shell.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Mon, 18 May 2015 16:34:06 +0200
+
 kali-menu (2.0) kali-dev; urgency=medium
 
   * Update entry for zaproxy to match the rename of the executable.
