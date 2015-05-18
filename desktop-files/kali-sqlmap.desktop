@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=03-webapp-analysis;
+Categories=03-webapp-analysis;04-database-assessment;
 X-Kali-Package=sqlmap

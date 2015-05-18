@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-12-snmp-analysis;02-02-01-cisco-tools;06-01-01-cisco-attacks;
+Categories=02-01-cisco-tools;06-01-cisco-attacks;
 X-Kali-Package=copy-router-config

@@ -6,5 +6,5 @@ Icon=maltego.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=01-info-gathering;
+Categories=01-info-gathering;01-07-osint-analysis;
 X-Kali-Package=maltego

@@ -57,7 +57,7 @@ categories=['10-01-os-backdoors','10-02-tunneling','10-03-web-backdoors','10-mai
 [org/gnome/desktop/app-folders/folders/forensics]
 name='11-Forensics'
 translate=true
-categories=['11-01-network-forensics','11-03-digital-forensics','11-04-forensic-analysis-tools','11-05-forensic-carving-tools','11-07-forensic-imaging-tools','11-11-pdf-forensics-tools','11-forensics']
+categories=['11-01-network-forensics','11-03-digital-forensics','11-04-forensic-analysis-tools','11-05-forensic-carving-tools','11-07-forensic-imaging-tools','11-11-pdf-forensics-tools','11-forensics','11-08-forensic-suites']
 
 [org/gnome/desktop/app-folders/folders/reporting]
 name='12-Reporting'
