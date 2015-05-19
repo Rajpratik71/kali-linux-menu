@@ -1,4 +1,4 @@
-kali-menu (2.1) UNRELEASED; urgency=medium
+kali-menu (2.1~1) kali-dev; urgency=medium
 
   * Add a dconf override file to setup App Folders for GNOME Shell.
   * Move top-level folders down one level (below 'Usual Applications')
