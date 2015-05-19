@@ -2,7 +2,7 @@
 Name=termineter
 Encoding=UTF-8
 Exec=sh -c "termineter -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=termineter.png
 StartupNotify=false
 Terminal=true
 Type=Application

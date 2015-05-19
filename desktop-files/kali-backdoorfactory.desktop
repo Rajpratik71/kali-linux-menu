@@ -2,7 +2,7 @@
 Name=backdoor-factory
 Encoding=UTF-8
 Exec=sh -c "backdoor-factory -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=backdoor-factory.png
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -2,7 +2,7 @@
 Name=macchanger
 Encoding=UTF-8
 Exec=sh -c "macchanger -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=macchanger.png
 StartupNotify=false
 Terminal=true
 Type=Application

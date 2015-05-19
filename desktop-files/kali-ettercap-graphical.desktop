@@ -2,7 +2,7 @@
 Name=ettercap-graphical
 Encoding=UTF-8
 Exec=sh -c "ettercap -G"
-Icon=kali-menu.png
+Icon=ettercap.png
 StartupNotify=false
 Terminal=false
 Type=Application

@@ -2,7 +2,7 @@
 Name=mitmproxy
 Encoding=UTF-8
 Exec=sh -c "mitmproxy -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=mitmproxy.png
 StartupNotify=false
 Terminal=true
 Type=Application
