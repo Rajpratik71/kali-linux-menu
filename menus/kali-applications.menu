@@ -3,21 +3,29 @@
 
 <Menu>
 	<Name>Applications</Name>
-       <Layout>
+	<Layout>
+		<Menuname>Usual Applications</Menuname>
+                <Menuname>Information Gathering</Menuname>
+                <Menuname>Vulnerability Analysis</Menuname>
+                <Menuname>Web Application Analysis</Menuname>
+                <Menuname>Database Assessment</Menuname>
+                <Menuname>Password Attacks</Menuname>
+                <Menuname>Wireless Attacks</Menuname>
+                <Menuname>Reverse Engineering</Menuname>
+                <Menuname>Exploit Frameworks</Menuname>
+                <Menuname>Sniffing - Spoofing</Menuname>
+                <Menuname>Maintaining Access</Menuname>
+                <Menuname>Forensic Tools</Menuname>
+                <Menuname>Reporting Tools</Menuname>
+                <Menuname>System Services</Menuname>
                 <Merge type="menus"/>
-                <Menuname>09 - Sniffing/Spoofing</Menuname>
-                <Menuname>01 - Information Gathering</Menuname>
-                <Menuname>02 - Vulnerability Analysis</Menuname>
-                <Menuname>03 - Web Application Analysis</Menuname>
-                <Menuname>04 - Database Assessment</Menuname>
-                <Menuname>05 - Password Attacks</Menuname>
-                <Menuname>06 - Wireless Attacks</Menuname>
-                <Menuname>08 - Exploitation Tools</Menuname>
-                <Menuname>10 - Maintaining Access</Menuname>
-                <Menuname>11 - Forensics</Menuname>
-                <Menuname>12 - Reporting Tools</Menuname>
-                <Menuname>13 - System Services</Menuname>
         </Layout>
+
+	<Menu>
+		<Name>Usual Applications</Name>
+		<Directory>usual-apps.directory</Directory>
+		<!-- This is the target of <Move> at the end ... -->
+	</Menu>
 
 	<Menu>
 		<Name>Information Gathering</Name>
@@ -320,7 +328,7 @@
 		</Menu>
 
 	<Menu>
-		<Name>Sniffing / Spoofing</Name>
+		<Name>Sniffing - Spoofing</Name>
 		<Directory>09-sniffing-spoofing.directory</Directory>
                 <Include><And>
                        <Category>09-sniffing-spoofing</Category>
