@@ -1,6 +1,7 @@
 kali-menu (2.1) UNRELEASED; urgency=medium
 
   * Add a dconf override file to setup App Folders for GNOME Shell.
+  * Move top-level folders down one level (below 'Usual Applications')
 
  -- Raphaël Hertzog <hertzog@debian.org>  Mon, 18 May 2015 16:34:06 +0200
 
