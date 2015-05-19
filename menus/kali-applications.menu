@@ -17,7 +17,7 @@
     <Menuname>Forensic Tools</Menuname>
     <Menuname>Reporting Tools</Menuname>
     <Menuname>System Services</Menuname>
-    <Merge type="menus"/>
+    <Merge type="all"/>
   </Layout>
   <Menu>
     <Name>Usual Applications</Name>
