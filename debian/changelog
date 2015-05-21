@@ -1,3 +1,9 @@
+kali-menu (2.1~5) kali-dev; urgency=low
+
+  * Remove keepnote icons
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 21 May 2015 19:15:53 -0400
+
 kali-menu (2.1~4) kali-dev; urgency=medium
 
   * And again more icons.
