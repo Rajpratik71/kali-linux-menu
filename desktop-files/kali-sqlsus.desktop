@@ -2,7 +2,7 @@
 Name=sqlsus
 Encoding=UTF-8
 Exec=sh -c "sqlsus -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=sqlsus.png
 StartupNotify=false
 Terminal=true
 Type=Application

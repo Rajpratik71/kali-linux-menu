@@ -2,7 +2,7 @@
 Name=bbqsql
 Encoding=UTF-8
 Exec=sh -c "bbqsql;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=bbqsql.png
 StartupNotify=false
 Terminal=true
 Type=Application

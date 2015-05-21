@@ -2,7 +2,7 @@
 Name=ollydbg
 Encoding=UTF-8
 Exec=sh -c "ollydbg"
-Icon=exploitation-tools-trans.png
+Icon=ollydbg.png
 StartupNotify=false
 Terminal=false
 Type=Application

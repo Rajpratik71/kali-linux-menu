@@ -2,7 +2,7 @@
 Name=casefile
 Encoding=UTF-8
 Exec=sh -c "casefile"
-Icon=kali-menu.png
+Icon=casefile.png
 StartupNotify=false
 Terminal=false
 Type=Application

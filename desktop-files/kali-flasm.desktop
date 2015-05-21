@@ -2,7 +2,7 @@
 Name=flasm
 Encoding=UTF-8
 Exec=sh -c "flasm;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=flasm.png
 StartupNotify=false
 Terminal=true
 Type=Application

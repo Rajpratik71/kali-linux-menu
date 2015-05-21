@@ -2,7 +2,7 @@
 Name=searchsploit
 Encoding=UTF-8
 Exec=sh -c "searchsploit;${SHELL:-bash}"
-Icon=exploitation-tools-trans.png
+Icon=searchsploit.png
 StartupNotify=false
 Terminal=true
 Type=Application

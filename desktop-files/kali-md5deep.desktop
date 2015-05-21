@@ -2,7 +2,7 @@
 Name=md5deep
 Encoding=UTF-8
 Exec=sh -c "md5deep -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=md5deep.png
 StartupNotify=false
 Terminal=true
 Type=Application

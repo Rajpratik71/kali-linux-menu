@@ -2,7 +2,7 @@
 Name=dradis
 Encoding=UTF-8
 Exec=sh -c "service dradis start; xdg-open https://127.0.0.1:3004"
-Icon=kali-menu.png
+Icon=dradis.png
 StartupNotify=false
 Terminal=false
 Type=Application

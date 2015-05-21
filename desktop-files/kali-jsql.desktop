@@ -2,7 +2,7 @@
 Name=jsql
 Encoding=UTF-8
 Exec=sh -c "jsql"
-Icon=kali-menu.png
+Icon=jsql.png
 StartupNotify=false
 Terminal=false
 Type=Application

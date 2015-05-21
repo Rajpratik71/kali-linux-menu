@@ -2,7 +2,7 @@
 Name=bulk_extractor
 Encoding=UTF-8
 Exec=sh -c "bulk_extractor -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=bulk_extractor.png
 StartupNotify=false
 Terminal=true
 Type=Application

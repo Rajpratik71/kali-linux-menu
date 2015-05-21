@@ -2,7 +2,7 @@
 Name=sqlninja
 Encoding=UTF-8
 Exec=sh -c "sqlninja;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=sqlninja.png
 StartupNotify=false
 Terminal=true
 Type=Application

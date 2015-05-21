@@ -2,7 +2,7 @@
 Name=pipal
 Encoding=UTF-8
 Exec=sh -c "pipal -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=pipal.png
 StartupNotify=false
 Terminal=true
 Type=Application

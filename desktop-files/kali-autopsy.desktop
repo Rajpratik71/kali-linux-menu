@@ -2,7 +2,7 @@
 Name=autopsy
 Encoding=UTF-8
 Exec=sh -c "autopsy;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=autopsy.png
 StartupNotify=false
 Terminal=true
 Type=Application

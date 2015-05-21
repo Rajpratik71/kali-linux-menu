@@ -2,7 +2,7 @@
 Name=dff gui
 Encoding=UTF-8
 Exec=sh -c "dff -g;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=dff.png
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -2,7 +2,7 @@
 Name=oscanner
 Encoding=UTF-8
 Exec=sh -c "oscanner;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=oscanner.png
 StartupNotify=false
 Terminal=true
 Type=Application

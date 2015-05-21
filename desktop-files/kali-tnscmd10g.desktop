@@ -2,7 +2,7 @@
 Name=tnscmd10g
 Encoding=UTF-8
 Exec=sh -c "tnscmd10g;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=tnscmd10g.png
 StartupNotify=false
 Terminal=true
 Type=Application

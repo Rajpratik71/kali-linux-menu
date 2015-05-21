@@ -2,7 +2,7 @@
 Name=sidguesser
 Encoding=UTF-8
 Exec=sh -c "sidguess;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=sidguesser.png
 StartupNotify=false
 Terminal=true
 Type=Application

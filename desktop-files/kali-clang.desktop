@@ -2,7 +2,7 @@
 Name=clang
 Encoding=UTF-8
 Exec=sh -c "clang --help;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=clang.png
 StartupNotify=false
 Terminal=true
 Type=Application

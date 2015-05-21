@@ -2,7 +2,7 @@
 Name=javasnoop
 Encoding=UTF-8
 Exec=sh -c "javasnoop"
-Icon=kali-menu.png
+Icon=javasnoop.png
 StartupNotify=false
 Terminal=false
 Type=Application

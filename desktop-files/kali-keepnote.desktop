@@ -2,7 +2,7 @@
 Name=keepnote
 Encoding=UTF-8
 Exec=sh -c "keepnote"
-Icon=kali-menu.png
+Icon=keepnote.png
 StartupNotify=false
 Terminal=false
 Type=Application

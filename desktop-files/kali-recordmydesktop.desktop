@@ -2,7 +2,7 @@
 Name=recordmydesktop
 Encoding=UTF-8
 Exec=sh -c "recordmydesktop -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=recordmydesktop.png
 StartupNotify=false
 Terminal=true
 Type=Application

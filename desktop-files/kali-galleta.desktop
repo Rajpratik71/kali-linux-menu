@@ -2,7 +2,7 @@
 Name=galleta
 Encoding=UTF-8
 Exec=sh -c "galleta;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=galleta.png
 StartupNotify=false
 Terminal=true
 Type=Application
