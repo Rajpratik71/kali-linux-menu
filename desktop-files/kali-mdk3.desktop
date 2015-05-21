@@ -2,7 +2,7 @@
 Name=mdk3
 Encoding=UTF-8
 Exec=sh -c "mdk3 --help;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=mdk3.png
 StartupNotify=false
 Terminal=true
 Type=Application

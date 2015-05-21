@@ -2,7 +2,7 @@
 Name=lynis
 Encoding=UTF-8
 Exec=sh -c "lynis -h;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=lynis.png
 StartupNotify=false
 Terminal=true
 Type=Application
