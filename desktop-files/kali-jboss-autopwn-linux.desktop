@@ -2,7 +2,7 @@
 Name=jboss-autopwn-linux
 Encoding=UTF-8
 Exec=sh -c "jboss-linux;${SHELL:-bash}"
-Icon=exploitation-tools-trans.png
+Icon=jboss-autopwn.png
 StartupNotify=false
 Terminal=true
 Type=Application

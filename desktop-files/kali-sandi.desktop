@@ -2,7 +2,7 @@
 Name=sandi-gui
 Encoding=UTF-8
 Exec=sh -c "sandi-gui"
-Icon=kali-menu.png
+Icon=sandi-gui.png
 StartupNotify=false
 Terminal=false
 Type=Application
