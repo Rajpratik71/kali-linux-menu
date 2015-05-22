@@ -2,7 +2,7 @@
 Name=dradis stop
 Encoding=UTF-8
 Exec=sh -c "service dradis stop;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=dradis.png
 StartupNotify=false
 Terminal=true
 Type=Application
