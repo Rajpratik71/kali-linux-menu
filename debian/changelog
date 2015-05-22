@@ -1,3 +1,9 @@
+kali-menu (2.1~8) kali-dev; urgency=low
+
+  * Remove keepnote icons, for real
+
+ -- Mati Aharoni <muts@kali.org>  Fri, 22 May 2015 07:28:31 -0400
+
 kali-menu (2.1~7) kali-dev; urgency=low
 
   * Last icons from first level menu
