@@ -2,7 +2,7 @@
 Name=recstudio
 Encoding=UTF-8
 Exec=sh -c "recstudio"
-Icon=kali-menu.png
+Icon=recstudio.png
 StartupNotify=false
 Terminal=false
 Type=Application
