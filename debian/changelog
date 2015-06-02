@@ -1,3 +1,9 @@
+kali-menu (2.1~9) kali-dev; urgency=low
+
+  * Cleanup to the desktop directories and a new icon
+
+ -- Mati Aharoni <muts@kali.org>  Tue, 02 Jun 2015 16:40:18 -0400
+
 kali-menu (2.1~8) kali-dev; urgency=low
 
   * Remove keepnote icons, for real
