@@ -1,3 +1,9 @@
+kali-menu (2.1~10) kali-dev; urgency=low
+
+  * Update some chinese menu entries
+
+ -- Mati Aharoni <muts@kali.org>  Mon, 15 Jun 2015 14:36:51 -0400
+
 kali-menu (2.1~9) kali-dev; urgency=low
 
   * Cleanup to the desktop directories and a new icon
