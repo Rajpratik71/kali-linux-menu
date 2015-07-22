@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SET
+Encoding=UTF-8
+Exec=sh -c "setoolkit;${SHELL:-bash}"
+Icon=set.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;
+X-Kali-Package=set
