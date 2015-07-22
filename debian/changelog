@@ -1,3 +1,9 @@
+kali-menu (2.1~13) kali-dev; urgency=low
+
+  * More desktop item and menu cleanups
+
+ -- Mati Aharoni <muts@kali.org>  Wed, 22 Jul 2015 17:06:30 -0400
+
 kali-menu (2.1~12) kali-dev; urgency=low
 
   * Remove uneeded desktop files

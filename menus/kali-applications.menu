@@ -347,15 +347,6 @@
         <Category>08-exploitation-tools</Category>
       </And>
     </Include>
-    <Menu>
-      <Name>Metasploit Framework</Name>
-      <Directory>08-01-metasploit-framework.directory</Directory>
-      <Include>
-        <And>
-          <Category>08-01-metasploit-framework</Category>
-        </And>
-      </Include>
-    </Menu>
   </Menu>
   <Menu>
     <Name>Sniffing - Spoofing</Name>

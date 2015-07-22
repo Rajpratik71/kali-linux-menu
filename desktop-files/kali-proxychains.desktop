@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=10-02-tunneling;
+Categories=10-02-tunneling;10-maintaining-access;
 X-Kali-Package=proxychains

@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=10-03-web-backdoors;
+Categories=10-03-web-backdoors;10-maintaining-access;
 X-Kali-Package=weevely

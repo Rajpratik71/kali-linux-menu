@@ -42,7 +42,7 @@ categories=['07-reverseengineer']
 [org/gnome/desktop/app-folders/folders/exploit]
 name='08-Exploit'
 translate=true
-categories=['08-01-metasploit-framework','08-exploitation-tools']
+categories=['08-exploitation-tools']
 
 [org/gnome/desktop/app-folders/folders/sniff]
 name='09-Sniffing'
@@ -67,4 +67,4 @@ categories=['12-reporting']
 [org/gnome/desktop/app-folders/folders/services]
 name='13-Services'
 translate=true
-categories=['14-01-gpsd','14-02-httpd','14-03-mysqld','14-04-pcscd','14-06-sshd','14-07-radius','14-08-beef-service','14-09-metasploit-service','14-10-dradis-service','14-11-openvas-service','14-12-xplico-service','14-services']
+categories=['14-01-gpsd','14-02-httpd','14-03-mysqld','14-04-pcscd','14-06-sshd','14-07-radius','14-08-beef-service','14-10-dradis-service','14-11-openvas-service','14-12-xplico-service','14-services']

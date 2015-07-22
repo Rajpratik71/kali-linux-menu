@@ -6,5 +6,5 @@ Icon=xplico.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=14-12-xplico-service;
+Categories=14-12-xplico-service;14-services;
 X-Kali-Package=xplico

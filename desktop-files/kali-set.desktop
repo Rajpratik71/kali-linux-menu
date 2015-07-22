@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=SET
+Name=social engineering toolkit
 Encoding=UTF-8
 Exec=sh -c "setoolkit;${SHELL:-bash}"
 Icon=set.png
