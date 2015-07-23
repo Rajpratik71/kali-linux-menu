@@ -1,3 +1,9 @@
+kali-menu (2.1~15) kali-dev; urgency=low
+
+  * Updated missing desktop entries and added icons
+
+ -- Mati Aharoni <muts@kali.org>  Thu, 23 Jul 2015 19:03:53 -0400
+
 kali-menu (2.1~14) kali-dev; urgency=low
 
   * Adding several missing desktop items
