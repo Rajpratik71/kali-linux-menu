@@ -2,7 +2,7 @@
 Name=cowpatty
 Encoding=UTF-8
 Exec=sh -c "cowpatty;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=cowpatty.png
 StartupNotify=false
 Terminal=true
 Type=Application

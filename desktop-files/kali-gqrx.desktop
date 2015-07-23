@@ -2,7 +2,7 @@
 Name=gqrx
 Encoding=UTF-8
 Exec=sh -c "gqrx"
-Icon=kali-menu.png
+Icon=gqrx.png
 StartupNotify=false
 Terminal=false
 Type=Application

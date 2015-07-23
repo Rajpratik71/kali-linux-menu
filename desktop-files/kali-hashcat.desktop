@@ -2,7 +2,7 @@
 Name=hashcat
 Encoding=UTF-8
 Exec=sh -c "hashcat --help;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=hashcat.png
 StartupNotify=false
 Terminal=true
 Type=Application
