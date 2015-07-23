@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=false
 Type=Application
-Categories=06-05-radio-tools;
+Categories=06-05-radio-tools;06-wireless-attacks;
 X-Kali-Package=gqrx

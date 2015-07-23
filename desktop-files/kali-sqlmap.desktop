@@ -6,5 +6,5 @@ Icon=sqlmap.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=03-webapp-analysis;04-database-assessment;
+Categories=03-webapp-analysis;04-database-assessment;08-exploitation-tools;
 X-Kali-Package=sqlmap

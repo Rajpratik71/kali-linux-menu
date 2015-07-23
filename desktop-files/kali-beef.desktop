@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=beef
+Name=BeEF XSS framework
 Encoding=UTF-8
 Exec=sh -c "beef-xss;${SHELL:-bash}"
 Icon=beef.png

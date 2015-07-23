@@ -6,5 +6,5 @@ Icon=nmap.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-info-gathering;01-04-network-scanners;
+Categories=01-info-gathering;01-04-network-scanners;02-vulnerability-analysis;
 X-Kali-Package=nmap

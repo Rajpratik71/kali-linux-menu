@@ -6,5 +6,5 @@ Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=09-01-network-sniffers;
+Categories=09-01-network-sniffers;09-sniffing-spoofing;
 X-Kali-Package=netsniff-ng
