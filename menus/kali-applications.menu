@@ -491,6 +491,11 @@
   <Menu>
     <Name>System Services</Name>
     <Directory>14-services.directory</Directory>
+    <Include>
+      <And>
+        <Category>14-services</Category>
+      </And>
+    </Include>
     <Menu>
       <Name>BEEF XSS Framework</Name>
       <Directory>14-08-beef-service.directory</Directory>
