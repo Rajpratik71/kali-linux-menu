@@ -1,3 +1,9 @@
+kali-menu (3.0) kali-dev; urgency=medium
+
+  * Replace md5deep by hashdeep.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Wed, 12 Aug 2015 14:36:56 +0200
+
 kali-menu (2.3) kali-dev; urgency=low
 
   * Update sparta desktop item and image
