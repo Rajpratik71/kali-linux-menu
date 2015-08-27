@@ -2,7 +2,7 @@
 Name=beef stop
 Encoding=UTF-8
 Exec=sh -c "service beef-xss stop;${SHELL:-bash}"
-Icon=beef.png
+Icon=kali-beef.png
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -2,7 +2,7 @@
 Name=openvas check setup
 Encoding=UTF-8
 Exec=sh -c "openvas-check-setup;${SHELL:-bash}"
-Icon=OpenVas.png
+Icon=kali-OpenVas.png
 StartupNotify=false
 Terminal=true
 Type=Application

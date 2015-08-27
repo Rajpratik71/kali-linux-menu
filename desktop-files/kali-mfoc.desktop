@@ -2,7 +2,7 @@
 Name=mfoc
 Encoding=UTF-8
 Exec=sh -c "mfoc -h;${SHELL:-bash}"
-Icon=mfoc.png
+Icon=kali-mfoc.png
 StartupNotify=false
 Terminal=true
 Type=Application

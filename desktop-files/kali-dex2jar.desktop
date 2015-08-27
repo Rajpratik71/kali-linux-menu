@@ -2,7 +2,7 @@
 Name=dex2jar
 Encoding=UTF-8
 Exec=sh -c "d2j-dex2jar -h;${SHELL:-bash}"
-Icon=dex2jar.png
+Icon=kali-dex2jar.png
 StartupNotify=false
 Terminal=true
 Type=Application

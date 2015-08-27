@@ -2,7 +2,7 @@
 Name=jboss-autopwn-linux
 Encoding=UTF-8
 Exec=sh -c "jboss-linux;${SHELL:-bash}"
-Icon=jboss-autopwn.png
+Icon=kali-jboss-autopwn.png
 StartupNotify=false
 Terminal=true
 Type=Application

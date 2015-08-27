@@ -2,7 +2,7 @@
 Name=recstudio-cli
 Encoding=UTF-8
 Exec=sh -c "recstudio-cli;${SHELL:-bash}"
-Icon=recstudio.png
+Icon=kali-recstudio.png
 StartupNotify=false
 Terminal=true
 Type=Application

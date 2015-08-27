@@ -2,7 +2,7 @@
 Name=ophcrack-cli
 Encoding=UTF-8
 Exec=sh -c "ophcrack-cli;${SHELL:-bash}"
-Icon=ophcrack.png
+Icon=kali-ophcrack.png
 StartupNotify=false
 Terminal=true
 Type=Application

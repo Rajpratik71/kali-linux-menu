@@ -2,7 +2,7 @@
 Name=afl
 Encoding=UTF-8
 Exec=sh -c "afl-fuzz -h;${SHELL:-bash}"
-Icon=afl.png
+Icon=kali-afl.png
 StartupNotify=false
 Terminal=true
 Type=Application

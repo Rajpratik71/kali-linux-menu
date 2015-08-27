@@ -2,7 +2,7 @@
 Name=sparta
 Encoding=UTF-8
 Exec=sh -c "sparta;${SHELL:-bash}"
-Icon=sparta.png
+Icon=kali-sparta.png
 StartupNotify=false
 Terminal=true
 Type=Application

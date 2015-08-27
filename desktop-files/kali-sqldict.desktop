@@ -2,7 +2,7 @@
 Name=sqldict
 Encoding=UTF-8
 Exec=sh -c "sqldict"
-Icon=sqldict.png
+Icon=kali-sqldict.png
 StartupNotify=false
 Terminal=false
 Type=Application

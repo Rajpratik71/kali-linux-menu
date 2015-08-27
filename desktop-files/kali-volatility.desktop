@@ -2,7 +2,7 @@
 Name=volatility
 Encoding=UTF-8
 Exec=sh -c "vol -h;${SHELL:-bash}"
-Icon=volatility.png
+Icon=kali-volatility.png
 StartupNotify=false
 Terminal=true
 Type=Application

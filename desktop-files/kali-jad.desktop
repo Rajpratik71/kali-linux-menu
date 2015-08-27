@@ -2,7 +2,7 @@
 Name=jad
 Encoding=UTF-8
 Exec=sh -c "jad;${SHELL:-bash}"
-Icon=jad.png
+Icon=kali-jad.png
 StartupNotify=false
 Terminal=true
 Type=Application

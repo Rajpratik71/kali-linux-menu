@@ -2,7 +2,7 @@
 Name=ssdeep
 Encoding=UTF-8
 Exec=sh -c "ssdeep -h;${SHELL:-bash}"
-Icon=ssdeep.png
+Icon=kali-ssdeep.png
 StartupNotify=false
 Terminal=true
 Type=Application

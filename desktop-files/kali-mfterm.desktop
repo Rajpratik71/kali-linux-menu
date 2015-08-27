@@ -2,7 +2,7 @@
 Name=mfterm
 Encoding=UTF-8
 Exec=sh -c "mfterm -h;${SHELL:-bash}"
-Icon=mfterm.png
+Icon=kali-mfterm.png
 StartupNotify=false
 Terminal=true
 Type=Application

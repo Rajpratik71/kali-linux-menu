@@ -2,7 +2,7 @@
 Name=responder
 Encoding=UTF-8
 Exec=sh -c "responder -h;${SHELL:-bash}"
-Icon=responder.png
+Icon=kali-responder.png
 StartupNotify=false
 Terminal=true
 Type=Application

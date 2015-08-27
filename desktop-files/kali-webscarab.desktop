@@ -2,7 +2,7 @@
 Name=webscarab
 Encoding=UTF-8
 Exec=sh -c "webscarab"
-Icon=webscarab.png
+Icon=kali-webscarab.png
 StartupNotify=false
 Terminal=false
 Type=Application

@@ -2,7 +2,7 @@
 Name=rainbowcrack
 Encoding=UTF-8
 Exec=sh -c "rcrack;${SHELL:-bash}"
-Icon=rainbowcrack.png
+Icon=kali-rainbowcrack.png
 StartupNotify=false
 Terminal=true
 Type=Application

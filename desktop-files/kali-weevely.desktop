@@ -2,7 +2,7 @@
 Name=weevely
 Encoding=UTF-8
 Exec=sh -c "weevely;${SHELL:-bash}"
-Icon=weevely.png
+Icon=kali-weevely.png
 StartupNotify=false
 Terminal=true
 Type=Application

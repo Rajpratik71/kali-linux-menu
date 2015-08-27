@@ -2,7 +2,7 @@
 Name=reaver
 Encoding=UTF-8
 Exec=sh -c "reaver -h;${SHELL:-bash}"
-Icon=reaver.png
+Icon=kali-reaver.png
 StartupNotify=false
 Terminal=true
 Type=Application

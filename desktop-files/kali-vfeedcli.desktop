@@ -2,7 +2,7 @@
 Name=vfeedcli
 Encoding=UTF-8
 Exec=sh -c "vfeedcli;${SHELL:-bash}"
-Icon=vfeedcli.png
+Icon=kali-vfeedcli.png
 StartupNotify=false
 Terminal=true
 Type=Application

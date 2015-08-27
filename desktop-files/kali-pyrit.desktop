@@ -2,7 +2,7 @@
 Name=pyrit
 Encoding=UTF-8
 Exec=sh -c "pyrit -h;${SHELL:-bash}"
-Icon=pyrit.png
+Icon=kali-pyrit.png
 StartupNotify=false
 Terminal=true
 Type=Application

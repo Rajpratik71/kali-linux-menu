@@ -2,7 +2,7 @@
 Name=bdfproxy
 Encoding=UTF-8
 Exec=sh -c "bdfproxy;${SHELL:-bash}"
-Icon=bdfproxy.png
+Icon=kali-bdfproxy.png
 StartupNotify=false
 Terminal=true
 Type=Application

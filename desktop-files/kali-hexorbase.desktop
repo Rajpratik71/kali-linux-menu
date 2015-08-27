@@ -2,7 +2,7 @@
 Name=hexorbase
 Encoding=UTF-8
 Exec=sh -c "hexorbase"
-Icon=hexorbase.png
+Icon=kali-hexorbase.png
 StartupNotify=false
 Terminal=false
 Type=Application

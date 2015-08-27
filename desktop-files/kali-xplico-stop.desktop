@@ -2,7 +2,7 @@
 Name=xplico stop
 Encoding=UTF-8
 Exec=sh -c "service xplico stop;${SHELL:-bash}"
-Icon=xplico.png
+Icon=kali-xplico.png
 StartupNotify=false
 Terminal=true
 Type=Application

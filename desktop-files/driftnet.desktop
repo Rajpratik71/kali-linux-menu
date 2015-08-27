@@ -2,7 +2,7 @@
 Name=driftnet
 Encoding=UTF-8
 Exec=sh -c "driftnet -h;${SHELL:-bash}"
-Icon=driftnet.png
+Icon=kali-driftnet.png
 StartupNotify=false
 Terminal=true
 Type=Application

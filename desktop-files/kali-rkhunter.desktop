@@ -2,7 +2,7 @@
 Name=rkhunter
 Encoding=UTF-8
 Exec=sh -c "rkhunter -h;${SHELL:-bash}"
-Icon=rkhunter.png
+Icon=kali-rkhunter.png
 StartupNotify=false
 Terminal=true
 Type=Application

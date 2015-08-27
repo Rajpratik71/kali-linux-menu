@@ -2,7 +2,7 @@
 Name=ferret
 Encoding=UTF-8
 Exec=sh -c "ferret;${SHELL:-bash}"
-Icon=ferret.png
+Icon=kali-ferret.png
 StartupNotify=false
 Terminal=true
 Type=Application

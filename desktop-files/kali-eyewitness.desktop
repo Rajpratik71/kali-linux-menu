@@ -2,7 +2,7 @@
 Name=eyewitness
 Encoding=UTF-8
 Exec=sh -c "eyewitness -h;${SHELL:-bash}"
-Icon=eyewitness.png
+Icon=kali-eyewitness.png
 StartupNotify=false
 Terminal=true
 Type=Application

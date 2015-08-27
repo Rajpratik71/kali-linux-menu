@@ -2,7 +2,7 @@
 Name=metasploit framework
 Encoding=UTF-8
 Exec=sh -c "service postgresql start && msfdb init & msfconsole;${SHELL:-bash}"
-Icon=metasploit.png
+Icon=kali-metasploit.png
 StartupNotify=false
 Terminal=true
 Type=Application

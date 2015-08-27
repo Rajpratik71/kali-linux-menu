@@ -2,7 +2,7 @@
 Name=httrack
 Encoding=UTF-8
 Exec=sh -c "httrack -h;${SHELL:-bash}"
-Icon=sqlmap.png
+Icon=kali-sqlmap.png
 StartupNotify=false
 Terminal=true
 Type=Application

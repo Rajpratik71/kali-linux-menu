@@ -2,7 +2,7 @@
 Name=rcracki_mt
 Encoding=UTF-8
 Exec=sh -c "rcracki_mt;${SHELL:-bash}"
-Icon=rcracki_mt.png
+Icon=kali-rcracki_mt.png
 StartupNotify=false
 Terminal=true
 Type=Application

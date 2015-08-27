@@ -2,7 +2,7 @@
 Name=dmitry
 Encoding=UTF-8
 Exec=sh -c "dmitry;${SHELL:-bash}"
-Icon=dmitry.png
+Icon=kali-dmitry.png
 StartupNotify=false
 Terminal=true
 Type=Application

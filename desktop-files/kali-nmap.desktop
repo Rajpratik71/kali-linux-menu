@@ -2,7 +2,7 @@
 Name=nmap
 Encoding=UTF-8
 Exec=sh -c "nmap;${SHELL:-bash}"
-Icon=nmap.png
+Icon=kali-nmap.png
 StartupNotify=false
 Terminal=true
 Type=Application

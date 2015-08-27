@@ -2,7 +2,7 @@
 Name=unix-privesc-check
 Encoding=UTF-8
 Exec=sh -c "unix-privesc-check;${SHELL:-bash}"
-Icon=unix-privesc-check.png
+Icon=kali-unix-privesc-check.png
 StartupNotify=false
 Terminal=true
 Type=Application

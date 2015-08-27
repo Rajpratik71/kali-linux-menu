@@ -2,7 +2,7 @@
 Name=golismero
 Encoding=UTF-8
 Exec=sh -c "golismero -h;${SHELL:-bash}"
-Icon=golismero.png
+Icon=kali-golismero.png
 StartupNotify=false
 Terminal=true
 Type=Application

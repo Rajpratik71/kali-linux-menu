@@ -2,7 +2,7 @@
 Name=ettercap-text
 Encoding=UTF-8
 Exec=sh -c "ettercap -h"
-Icon=ettercap.png
+Icon=kali-ettercap.png
 StartupNotify=false
 Terminal=false
 Type=Application

@@ -2,7 +2,7 @@
 Name=mdb-sql
 Encoding=UTF-8
 Exec=sh -c "mdb-sql -h;${SHELL:-bash}"
-Icon=mdb-sql.png
+Icon=kali-mdb-sql.png
 StartupNotify=false
 Terminal=true
 Type=Application

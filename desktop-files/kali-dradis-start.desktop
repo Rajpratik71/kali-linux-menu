@@ -2,7 +2,7 @@
 Name=dradis start
 Encoding=UTF-8
 Exec=sh -c "service dradis start;${SHELL:-bash}"
-Icon=dradis.png
+Icon=kali-dradis.png
 StartupNotify=false
 Terminal=true
 Type=Application

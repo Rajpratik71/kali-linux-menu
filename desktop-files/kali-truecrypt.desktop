@@ -2,7 +2,7 @@
 Name=truecrypt
 Encoding=UTF-8
 Exec=sh -c "truecrypt -h;${SHELL:-bash}"
-Icon=truecrypt.png
+Icon=kali-truecrypt.png
 StartupNotify=false
 Terminal=true
 Type=Application

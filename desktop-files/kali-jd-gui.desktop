@@ -2,7 +2,7 @@
 Name=jd-gui
 Encoding=UTF-8
 Exec=sh -c "jd-gui"
-Icon=jd-gui.png
+Icon=kali-jd-gui.png
 StartupNotify=false
 Terminal=false
 Type=Application

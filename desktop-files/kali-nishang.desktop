@@ -2,7 +2,7 @@
 Name=nishang
 Encoding=UTF-8
 Exec=sh -c "cd /usr/share/nishang && ls -l;${SHELL:-bash}"
-Icon=nishang.png
+Icon=kali-nishang.png
 StartupNotify=false
 Terminal=true
 Type=Application

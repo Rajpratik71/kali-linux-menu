@@ -2,7 +2,7 @@
 Name=metagoofil
 Encoding=UTF-8
 Exec=sh -c "metagoofil;${SHELL:-bash}"
-Icon=metagoofil.png
+Icon=kali-metagoofil.png
 StartupNotify=false
 Terminal=true
 Type=Application

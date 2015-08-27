@@ -2,7 +2,7 @@
 Name=netdiscover
 Encoding=UTF-8
 Exec=sh -c "netdiscover -h;${SHELL:-bash}"
-Icon=netdiscover.png
+Icon=kali-netdiscover.png
 StartupNotify=false
 Terminal=true
 Type=Application

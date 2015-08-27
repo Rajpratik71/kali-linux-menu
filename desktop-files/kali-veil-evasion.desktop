@@ -2,7 +2,7 @@
 Name=veil-evasion
 Encoding=UTF-8
 Exec=sh -c "veil-evasion -h;${SHELL:-bash}"
-Icon=veil-catapult-evasion.png
+Icon=kali-veil-catapult-evasion.png
 StartupNotify=false
 Terminal=true
 Type=Application

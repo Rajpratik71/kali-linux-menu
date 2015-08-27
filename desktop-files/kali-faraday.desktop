@@ -2,7 +2,7 @@
 Name=faraday IDE
 Encoding=UTF-8
 Exec=sh -c "python-faraday;${SHELL:-bash}"
-Icon=faraday.png
+Icon=kali-faraday.png
 StartupNotify=false
 Terminal=true
 Type=Application

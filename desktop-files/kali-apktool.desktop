@@ -2,7 +2,7 @@
 Name=apktool
 Encoding=UTF-8
 Exec=sh -c "apktool;${SHELL:-bash}"
-Icon=apktool.png
+Icon=kali-apktool.png
 StartupNotify=false
 Terminal=true
 Type=Application

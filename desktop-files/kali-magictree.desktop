@@ -2,7 +2,7 @@
 Name=magictree
 Encoding=UTF-8
 Exec=sh -c "magictree"
-Icon=magictree.png
+Icon=kali-magictree.png
 StartupNotify=false
 Terminal=false
 Type=Application

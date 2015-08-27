@@ -2,7 +2,7 @@
 Name=sqlmap
 Encoding=UTF-8
 Exec=sh -c "sqlmap -h;${SHELL:-bash}"
-Icon=sqlmap.png
+Icon=kali-sqlmap.png
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -2,7 +2,7 @@
 Name=hamster
 Encoding=UTF-8
 Exec=sh -c "hamster;${SHELL:-bash}"
-Icon=hamster.png
+Icon=kali-hamster.png
 StartupNotify=false
 Terminal=true
 Type=Application

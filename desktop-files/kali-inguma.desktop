@@ -2,7 +2,7 @@
 Name=inguma
 Encoding=UTF-8
 Exec=sh -c "inguma;${SHELL:-bash}"
-Icon=inguma-ginguma.png
+Icon=kali-inguma-ginguma.png
 StartupNotify=false
 Terminal=true
 Type=Application

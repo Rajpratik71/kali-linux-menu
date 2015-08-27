@@ -2,7 +2,7 @@
 Name=cewl
 Encoding=UTF-8
 Exec=sh -c "cewl --help;${SHELL:-bash}"
-Icon=cewl.png
+Icon=kali-cewl.png
 StartupNotify=false
 Terminal=true
 Type=Application

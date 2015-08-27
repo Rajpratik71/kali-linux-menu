@@ -2,7 +2,7 @@
 Name=proxychains
 Encoding=UTF-8
 Exec=sh -c "proxychains;${SHELL:-bash}"
-Icon=proxychains.png
+Icon=kali-proxychains.png
 StartupNotify=false
 Terminal=true
 Type=Application

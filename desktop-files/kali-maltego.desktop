@@ -2,7 +2,7 @@
 Name=maltego
 Encoding=UTF-8
 Exec=sh -c "maltego"
-Icon=maltego.png
+Icon=kali-maltego.png
 StartupNotify=false
 Terminal=false
 Type=Application

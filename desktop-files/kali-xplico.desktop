@@ -2,7 +2,7 @@
 Name=xplico
 Encoding=UTF-8
 Exec=sh -c "xdg-open http://localhost:9876"
-Icon=xplico.png
+Icon=kali-xplico.png
 StartupNotify=false
 Terminal=false
 Type=Application

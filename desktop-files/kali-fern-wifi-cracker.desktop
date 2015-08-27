@@ -2,7 +2,7 @@
 Name=fern wifi cracker
 Encoding=UTF-8
 Exec=sh -c "fern-wifi-cracker"
-Icon=fern-wifi-cracker.png
+Icon=kali-fern-wifi-cracker.png
 StartupNotify=false
 Terminal=false
 Type=Application

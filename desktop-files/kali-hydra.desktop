@@ -2,7 +2,7 @@
 Name=hydra
 Encoding=UTF-8
 Exec=sh -c "hydra -h;${SHELL:-bash}"
-Icon=hydra.png
+Icon=kali-hydra.png
 StartupNotify=false
 Terminal=true
 Type=Application

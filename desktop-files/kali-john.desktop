@@ -2,7 +2,7 @@
 Name=john
 Encoding=UTF-8
 Exec=sh -c "john;${SHELL:-bash}"
-Icon=john.png
+Icon=kali-john.png
 StartupNotify=false
 Terminal=true
 Type=Application

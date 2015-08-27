@@ -2,7 +2,7 @@
 Name=binwalk
 Encoding=UTF-8
 Exec=sh -c "binwalk -h;${SHELL:-bash}"
-Icon=binwalk.png
+Icon=kali-binwalk.png
 StartupNotify=false
 Terminal=true
 Type=Application

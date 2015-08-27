@@ -2,7 +2,7 @@
 Name=volafox
 Encoding=UTF-8
 Exec=sh -c "volafox;${SHELL:-bash}"
-Icon=volafox.png
+Icon=kali-volafox.png
 StartupNotify=false
 Terminal=true
 Type=Application

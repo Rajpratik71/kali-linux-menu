@@ -2,7 +2,7 @@
 Name=recon-ng
 Encoding=UTF-8
 Exec=sh -c "recon-ng"
-Icon=Recon-NG.png
+Icon=kali-Recon-NG.png
 StartupNotify=false
 Terminal=true
 Type=Application

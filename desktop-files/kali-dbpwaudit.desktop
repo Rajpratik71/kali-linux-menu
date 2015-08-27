@@ -2,7 +2,7 @@
 Name=dbpwaudit
 Encoding=UTF-8
 Exec=sh -c "dbpwaudit;${SHELL:-bash}"
-Icon=dbpwaudit.png
+Icon=kali-dbpwaudit.png
 StartupNotify=false
 Terminal=true
 Type=Application

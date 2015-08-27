@@ -2,7 +2,7 @@
 Name=openvas stop
 Encoding=UTF-8
 Exec=sh -c "openvas-stop;${SHELL:-bash}"
-Icon=OpenVas.png
+Icon=kali-OpenVas.png
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -2,7 +2,7 @@
 Name=chkrootkit
 Encoding=UTF-8
 Exec=sh -c "chkrootkit -h;${SHELL:-bash}"
-Icon=chkrootkit.png
+Icon=kali-chkrootkit.png
 StartupNotify=false
 Terminal=true
 Type=Application

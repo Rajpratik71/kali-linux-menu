@@ -2,7 +2,7 @@
 Name=paros
 Encoding=UTF-8
 Exec=sh -c "paros"
-Icon=Paros.png
+Icon=kali-Paros.png
 StartupNotify=false
 Terminal=false
 Type=Application

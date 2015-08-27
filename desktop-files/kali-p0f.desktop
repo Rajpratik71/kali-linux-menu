@@ -2,7 +2,7 @@
 Name=p0f
 Encoding=UTF-8
 Exec=sh -c "p0f -h;${SHELL:-bash}"
-Icon=p0f.png
+Icon=kali-p0f.png
 StartupNotify=false
 Terminal=true
 Type=Application

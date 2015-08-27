@@ -2,7 +2,7 @@
 Name=ike-scan
 Encoding=UTF-8
 Exec=sh -c "ike-scan -h;${SHELL:-bash}"
-Icon=ike-skan.png
+Icon=kali-ike-skan.png
 StartupNotify=false
 Terminal=true
 Type=Application

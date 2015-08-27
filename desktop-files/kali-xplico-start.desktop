@@ -2,7 +2,7 @@
 Name=xplico start
 Encoding=UTF-8
 Exec=sh -c "service xplico start;${SHELL:-bash}"
-Icon=xplico.png
+Icon=kali-xplico.png
 StartupNotify=false
 Terminal=true
 Type=Application
