@@ -6,5 +6,5 @@ Icon=kali-sparta.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=01-info-gathering;
+Categories=01-info-gathering;02-vulnerability-analysis;
 X-Kali-Package=sparta
