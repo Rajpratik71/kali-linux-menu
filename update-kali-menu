@@ -60,7 +60,8 @@ FILE: foreach my $desktop (list_installed_desktop_files()) {
     release_desktop_file($out_file);
 }
 
-close($lock);
+$lock->truncate(0);
+$lock->close();
 
 ### HELPER FUNCTIONS
 
@@ -178,11 +179,15 @@ sub parse_kali_desktop_files {
 sub get_lock {
     my $lockfile = KALI_MENU_LOCKFILE;
     system("mkdir -p /run/lock /var/lock; touch $lockfile") unless -e $lockfile;
-    open my $fh, '>>', $lockfile or syserr("Can't open %s", $lockfile);
+    open my $fh, '+<', $lockfile or syserr("Can't open %s", $lockfile);
     my $fs = new File::FcntlLock l_type => F_WRLCK;
     if (not $fs->lock($fh, F_SETLK)) {
 	exit 0; # Failed to lock, another instance is already running
     }
+    $fh->truncate(0);
+    $fh->print("$$\n");
+    $fh->flush();
+    $fh->sync();
     return $fh;
 }
 

@@ -1,3 +1,10 @@
+kali-menu (2015.3.0) kali-dev; urgency=medium
+
+  * Put the PID in /var/lock/kali-menu so that we can more easily wait for
+    the process to end. And empty the file upon completion.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Fri, 20 Nov 2015 17:00:43 +0100
+
 kali-menu (3.3) kali-dev; urgency=medium
 
   * Add sparta and commix icons
