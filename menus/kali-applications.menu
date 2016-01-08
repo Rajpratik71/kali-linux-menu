@@ -12,6 +12,7 @@
     <Menuname>Wireless Attacks</Menuname>
     <Menuname>Reverse Engineering</Menuname>
     <Menuname>Exploit Frameworks</Menuname>
+    <Menuname>Social Engineering Tools</Menuname>
     <Menuname>Sniffing - Spoofing</Menuname>
     <Menuname>Maintaining Access</Menuname>
     <Menuname>Forensic Tools</Menuname>
@@ -19,11 +20,14 @@
     <Menuname>System Services</Menuname>
     <Merge type="all"/>
   </Layout>
+
   <Menu>
     <Name>Usual Applications</Name>
     <Directory>usual-apps.directory</Directory>
     <!-- This is the target of <Move> at the end ... -->
   </Menu>
+
+
   <Menu>
     <Name>Information Gathering</Name>
     <Directory>01-info-gathering.directory</Directory>
@@ -123,6 +127,8 @@
       </Include>
     </Menu>
   </Menu>
+
+
   <Menu>
     <Name>Vulnerability Analysis</Name>
     <Directory>02-vulnerability-analysis.directory</Directory>
@@ -140,15 +146,7 @@
         </And>
       </Include>
     </Menu>
-    <Menu>
-      <Name>Stress Testing</Name>
-      <Directory>02-07-stress-testing.directory</Directory>
-      <Include>
-        <And>
-          <Category>02-07-stress-testing</Category>
-        </And>
-      </Include>
-    </Menu>
+
     <Menu>
       <Name>Fuzzing Tools</Name>
       <Directory>02-02-fuzzers.directory</Directory>
@@ -158,6 +156,7 @@
         </And>
       </Include>
     </Menu>
+
     <Menu>
       <Name>VoIP Tools</Name>
       <Directory>02-03-voip-tools.directory</Directory>
@@ -167,6 +166,17 @@
         </And>
       </Include>
     </Menu>
+
+    <Menu>
+      <Name>Nessus</Name>
+      <Directory>02-05-nessus.directory</Directory>
+      <Include>
+        <And>
+          <Category>02-05-nessus</Category>
+        </And>
+      </Include>
+    </Menu>
+
     <Menu>
       <Name>OpenVAS</Name>
       <Directory>02-06-openvas.directory</Directory>
@@ -176,7 +186,20 @@
         </And>
       </Include>
     </Menu>
+
+    <Menu>
+      <Name>Stress Testing</Name>
+      <Directory>02-07-stress-testing.directory</Directory>
+      <Include>
+        <And>
+          <Category>02-07-stress-testing</Category>
+        </And>
+      </Include>
+    </Menu>
+
   </Menu>
+
+
   <Menu>
     <Name>Web Application Analysis</Name>
     <Directory>03-webapp-analysis.directory</Directory>
@@ -222,6 +245,8 @@
       </Include>
     </Menu>
   </Menu>
+
+
   <Menu>
     <Name>Database Assessment</Name>
     <Directory>04-database-assessment.directory</Directory>
@@ -231,6 +256,9 @@
       </And>
     </Include>
   </Menu>
+
+
+
   <Menu>
     <Name>Password Attacks</Name>
     <Directory>05-password-attacks.directory</Directory>
@@ -276,6 +304,8 @@
       </Include>
     </Menu>
   </Menu>
+
+
   <Menu>
     <Name>Wireless Attacks</Name>
     <Directory>06-wireless-attacks.directory</Directory>
@@ -330,6 +360,8 @@
       </Include>
     </Menu>
   </Menu>
+
+
   <Menu>
     <Name>Reverse Engineering</Name>
     <Directory>07-reverseengineer.directory</Directory>
@@ -339,6 +371,8 @@
       </And>
     </Include>
   </Menu>
+
+
   <Menu>
     <Name>Exploit Frameworks</Name>
     <Directory>08-exploitation-tools.directory</Directory>
@@ -348,7 +382,18 @@
       </And>
     </Include>
   </Menu>
+ 
   <Menu>
+    <Name>Social Engineering Tools</Name>
+    <Directory>13-social-engineering-tools.directory</Directory>
+    <Include>
+      <And>
+        <Category>13-social-engineering-tools</Category>
+      </And>
+    </Include>
+  </Menu>
+
+ <Menu>
     <Name>Sniffing - Spoofing</Name>
     <Directory>09-sniffing-spoofing.directory</Directory>
     <Include>
@@ -375,6 +420,7 @@
       </Include>
     </Menu>
   </Menu>
+
   <Menu>
     <Name>Maintaining Access</Name>
     <Directory>10-maintaining-access.directory</Directory>
@@ -411,6 +457,8 @@
       </Include>
     </Menu>
   </Menu>
+
+
   <Menu>
     <Name>Forensic Tools</Name>
     <Directory>11-forensics.directory</Directory>
@@ -479,6 +527,7 @@
       </Include>
     </Menu>
   </Menu>
+
   <Menu>
     <Name>Reporting Tools</Name>
     <Directory>12-reporting.directory</Directory>
@@ -488,6 +537,8 @@
       </And>
     </Include>
   </Menu>
+
+
   <Menu>
     <Name>System Services</Name>
     <Directory>14-services.directory</Directory>
