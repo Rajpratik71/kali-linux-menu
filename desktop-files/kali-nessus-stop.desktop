@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Nessus start
 Encoding=UTF-8
-Exec=sh -c "openvas-start;${SHELL:-bash}"
+Exec=sh -c "/etc/init.d/nessusd stop;${SHELL:-bash}"
 Icon=kali-nessus.png
 StartupNotify=false
 Terminal=true

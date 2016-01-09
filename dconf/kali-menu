@@ -2,7 +2,7 @@
 # https://developer.gnome.org/AppFolders/
 
 [org/gnome/desktop/app-folders]
-folder-children=['info','vuln','web','db','passwd','wireless','re','exploit','sniff','post','forensics','reporting','services']
+folder-children=['info','vuln','web','db','passwd','wireless','re','exploit','setools','sniff','post','forensics','reporting','services']
 
 [org/gnome/desktop/app-folders/folders/info]
 name='01-Information'
@@ -12,7 +12,7 @@ categories=['01-info-gathering','01-01-dns-analysis','01-02-identify-live-hosts'
 [org/gnome/desktop/app-folders/folders/vuln]
 name='02-Vulnerability'
 translate=true
-categories=['02-vulnerability-analysis','02-01-cisco-tools','02-02-fuzzers','02-03-voip-tools','02-06-openvas','02-07-stress-testing']
+categories=['02-vulnerability-analysis','02-01-cisco-tools','02-02-fuzzers','02-03-voip-tools','02-05-nessus','02-06-openvas','02-07-stress-testing']
 
 [org/gnome/desktop/app-folders/folders/web]
 name='03-WebApps'
@@ -64,7 +64,12 @@ name='12-Reporting'
 translate=true
 categories=['12-reporting']
 
+[org/gnome/desktop/app-folders/folders/setools]
+name='13-SETools'
+translate=true
+categories=['13-social-engineering-tools']
+
 [org/gnome/desktop/app-folders/folders/services]
-name='13-Services'
+name='14-Services'
 translate=true
 categories=['14-01-gpsd','14-02-httpd','14-03-mysqld','14-04-pcscd','14-06-sshd','14-07-radius','14-08-beef-service','14-10-dradis-service','14-11-openvas-service','14-12-xplico-service','14-services']
