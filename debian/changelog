@@ -1,3 +1,9 @@
+kali-menu (2016.1.2) kali-dev; urgency=medium
+
+  * Added top level menu icons
+
+ -- Mati Aharoni <muts@kali.org>  Sun, 10 Jan 2016 16:29:13 -0500
+
 kali-menu (2016.1.1) kali-dev; urgency=medium
 
   * Add new SE icons and menu entry

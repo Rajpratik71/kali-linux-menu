@@ -2,7 +2,7 @@
 Name=intersect
 Encoding=UTF-8
 Exec=sh -c "intersect;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=kali-intersect.png
 StartupNotify=false
 Terminal=true
 Type=Application
