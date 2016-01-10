@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Nessus start
+Name=Nessus stop
 Encoding=UTF-8
 Exec=sh -c "/etc/init.d/nessusd stop;${SHELL:-bash}"
 Icon=kali-nessus.png
