@@ -6,5 +6,5 @@ Icon=kali-backdoor-factory.png
 StartupNotify=false
 Terminal=true
 Type=Application
-Categories=10-maintaining-access;
+Categories=10-maintaining-access;13-social-engineering-tools;
 X-Kali-Package=backdoor-factory
