@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ghost phisher
+Encoding=UTF-8
+Exec=sh -c "ghost-phisher -h;${SHELL:-bash}"
+Icon=kali-ghost-phisher.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;13-social-engineering-tools;
+X-Kali-Package=ghost-phisher

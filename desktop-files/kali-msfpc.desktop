@@ -1,10 +1,10 @@
 [Desktop Entry]
-Name=social engineering toolkit
+Name=msf payload creator
 Encoding=UTF-8
-Exec=sh -c "setoolkit;${SHELL:-bash}"
-Icon=kali-set.png
+Exec=sh -c "msfpc;${SHELL:-bash}"
+Icon=kali-metasploit.png
 StartupNotify=false
 Terminal=true
 Type=Application
 Categories=08-exploitation-tools;13-social-engineering-tools;
-X-Kali-Package=set
+X-Kali-Package=msfpc
