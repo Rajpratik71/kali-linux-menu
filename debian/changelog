@@ -1,3 +1,9 @@
+kali-menu (2016.2.2) kali-dev; urgency=medium
+
+  * Replace maltego by maltegoce
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 25 Feb 2016 17:03:07 +0100
+
 kali-menu (2016.2.1) kali-dev; urgency=medium
 
   * Updating MPC and EXE2HEX 
