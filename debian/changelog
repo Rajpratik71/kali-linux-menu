@@ -1,3 +1,9 @@
+kali-menu (2016.2.3) kali-dev; urgency=medium
+
+  * Drop webshag-gui.desktop: webshag-gui doesn't work anymore
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 06 Apr 2016 11:32:48 +0200
+
 kali-menu (2016.2.2) kali-dev; urgency=medium
 
   * Replace maltego by maltegoce
