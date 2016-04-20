@@ -382,16 +382,6 @@
       </And>
     </Include>
   </Menu>
- 
-  <Menu>
-    <Name>Social Engineering Tools</Name>
-    <Directory>13-social-engineering-tools.directory</Directory>
-    <Include>
-      <And>
-        <Category>13-social-engineering-tools</Category>
-      </And>
-    </Include>
-  </Menu>
 
  <Menu>
     <Name>Sniffing - Spoofing</Name>
@@ -537,7 +527,16 @@
       </And>
     </Include>
   </Menu>
-
+ 
+  <Menu>
+    <Name>Social Engineering Tools</Name>
+    <Directory>13-social-engineering-tools.directory</Directory>
+    <Include>
+      <And>
+        <Category>13-social-engineering-tools</Category>
+      </And>
+    </Include>
+  </Menu>
 
   <Menu>
     <Name>System Services</Name>
