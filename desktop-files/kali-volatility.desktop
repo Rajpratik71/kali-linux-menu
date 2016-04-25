@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=volatility
 Encoding=UTF-8
-Exec=sh -c "vol -h;${SHELL:-bash}"
+Exec=sh -c "volatility -h;${SHELL:-bash}"
 Icon=kali-volatility.png
 StartupNotify=false
 Terminal=true

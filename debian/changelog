@@ -1,3 +1,13 @@
+kali-menu (2016.2.6) kali-dev; urgency=medium
+
+  * Fix NASM Shell menu shortcut (closes: 0003249)
+  * Fix dictstat menu (closes: 0003251): replaced by statsgen menu (command
+    renamed by upstream)
+  * Fix volatility menu (closes: 0003252)
+  * Fix few traductions in desktop-directories
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 25 Apr 2016 09:24:45 +0200
+
 kali-menu (2016.2.5) kali-dev; urgency=medium
 
   * Add a symlink to fix the menu in kde

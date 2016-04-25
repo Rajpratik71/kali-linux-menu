@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=dictstat
+Name=statsgen
 Encoding=UTF-8
-Exec=sh -c "dictstat -h;${SHELL:-bash}"
+Exec=sh -c "statsgen -h;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
