@@ -1,3 +1,9 @@
+kali-menu (2016.2.7) kali-dev; urgency=medium
+
+  * Fix sleuthkit menus entries (closes: 0003266, 0003267)
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 04 May 2016 11:50:39 +0200
+
 kali-menu (2016.2.6) kali-dev; urgency=medium
 
   * Fix NASM Shell menu shortcut (closes: 0003249)

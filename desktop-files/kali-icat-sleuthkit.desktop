@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=icat-sleuthkit
 Encoding=UTF-8
-Exec=sh -c "icat-sleuthkit;${SHELL:-bash}"
+Exec=sh -c "icat;${SHELL:-bash}"
 Icon=kali-menu.png
 StartupNotify=false
 Terminal=true
