@@ -1,3 +1,9 @@
+kali-menu (2016.2.8) kali-dev; urgency=medium
+
+  * Drop arachni_web menu: arachni_web is not in package arachni anymore
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 09 May 2016 11:59:44 +0200
+
 kali-menu (2016.2.7) kali-dev; urgency=medium
 
   * Fix sleuthkit menus entries (closes: 0003266, 0003267)
