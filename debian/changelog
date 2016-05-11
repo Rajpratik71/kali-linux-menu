@@ -1,3 +1,9 @@
+kali-menu (2016.2.9) kali-dev; urgency=medium
+
+  * Remove dff desktop file and icons 
+
+ -- Sophie Brun <sophie@freexian.com>  Wed, 11 May 2016 10:12:02 +0200
+
 kali-menu (2016.2.8) kali-dev; urgency=medium
 
   * Drop arachni_web menu: arachni_web is not in package arachni anymore
