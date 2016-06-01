@@ -1,3 +1,9 @@
+kali-menu (2016.2.11) kali-dev; urgency=medium
+
+  * Add bettercap icon to the menu, include pngs
+
+ -- Mati Aharoni <muts@kali.org>  Wed, 01 Jun 2016 11:39:44 -0400
+
 kali-menu (2016.2.10) kali-dev; urgency=medium
 
   * Fix kali-stunnel.desktop

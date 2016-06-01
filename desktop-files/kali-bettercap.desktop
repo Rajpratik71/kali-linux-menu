@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bettercap
+Encoding=UTF-8
+Exec=sh -c "bettercap --sniffer"
+Icon=kali-bettercap.png
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=bettercap
