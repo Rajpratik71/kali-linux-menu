@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=bettercap
 Encoding=UTF-8
-Exec=sh -c "bettercap --sniffer"
+Exec=sh -c "bettercap --help;${SHELL:-bash}"
 Icon=kali-bettercap.png
 StartupNotify=false
 Terminal=true
