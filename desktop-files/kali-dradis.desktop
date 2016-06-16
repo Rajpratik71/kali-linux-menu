@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=dradis
 Encoding=UTF-8
-Exec=sh -c "service dradis start; xdg-open https://127.0.0.1:3004"
+Exec=sh -c "service dradis start; xdg-open http://127.0.0.1:3000"
 Icon=kali-dradis.png
 StartupNotify=false
 Terminal=false
