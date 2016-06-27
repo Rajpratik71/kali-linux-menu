@@ -1,3 +1,9 @@
+kali-menu (2016.2.15) kali-dev; urgency=medium
+
+  * Remove multiforcer and creepy desktop files
+
+ -- Sophie Brun <sophie@freexian.com>  Mon, 27 Jun 2016 09:51:01 +0200
+
 kali-menu (2016.2.14) kali-dev; urgency=medium
 
   * Update dradis menu
