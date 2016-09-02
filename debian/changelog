@@ -1,3 +1,9 @@
+kali-menu (2016.3.0) kali-dev; urgency=medium
+
+  * Update kali-rebind.desktop with new binary name
+
+ -- Sophie Brun <sophie@freexian.com>  Fri, 02 Sep 2016 09:16:35 +0200
+
 kali-menu (2016.2.15) kali-dev; urgency=medium
 
   * Remove multiforcer and creepy desktop files
