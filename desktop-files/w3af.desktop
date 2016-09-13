@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=w3af
 Encoding=UTF-8
-Exec=sh -c "w3af"
+Exec=sh -c "w3af_gui"
 Icon=kali-w3af.png
 StartupNotify=false
 Terminal=false
