@@ -1,3 +1,10 @@
+kali-menu (2017.1.1) kali-dev; urgency=medium
+
+  * Fix order of Menunames in menus/kali-applications.menu to display the menu
+    correctly in kde
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 16 Feb 2017 15:08:09 +0100
+
 kali-menu (2017.1.0) kali-dev; urgency=medium
 
   * Add iputils-arping.desktop (it replaces arping when kali-linux-full and

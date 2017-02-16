@@ -12,11 +12,11 @@
     <Menuname>Wireless Attacks</Menuname>
     <Menuname>Reverse Engineering</Menuname>
     <Menuname>Exploit Frameworks</Menuname>
-    <Menuname>Social Engineering Tools</Menuname>
     <Menuname>Sniffing - Spoofing</Menuname>
     <Menuname>Maintaining Access</Menuname>
     <Menuname>Forensic Tools</Menuname>
     <Menuname>Reporting Tools</Menuname>
+    <Menuname>Social Engineering Tools</Menuname>
     <Menuname>System Services</Menuname>
     <Merge type="all"/>
   </Layout>
