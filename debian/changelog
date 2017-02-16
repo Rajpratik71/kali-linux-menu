@@ -1,3 +1,10 @@
+kali-menu (2017.1.0) kali-dev; urgency=medium
+
+  * Add iputils-arping.desktop (it replaces arping when kali-linux-full and
+    network-manager are co-installed, see bug 3568)
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 16 Feb 2017 12:08:05 +0100
+
 kali-menu (2016.3.3) kali-dev; urgency=medium
 
   * Fix kali-msfconsole.desktop (Closes #3725)
