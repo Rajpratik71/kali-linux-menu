@@ -118,7 +118,7 @@
       </Include>
     </Menu>
     <Menu>
-      <Name>Network /  Port Scanners</Name>
+      <Name>Network and Port Scanners</Name>
       <Directory>01-04-network-scanners.directory</Directory>
       <Include>
         <And>

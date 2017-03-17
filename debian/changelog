@@ -1,3 +1,11 @@
+kali-menu (2017.1.2) kali-dev; urgency=medium
+
+  * Rename "Network / Port Scanners" into "Network and Port Scanners" to fix
+    menu in LXDE.
+  * Bump debian/compat to 10 and adjust Standards-Version.
+
+ -- Raphaël Hertzog <hertzog@debian.org>  Fri, 17 Mar 2017 09:45:26 +0100
+
 kali-menu (2017.1.1) kali-dev; urgency=medium
 
   * Fix order of Menunames in menus/kali-applications.menu to display the menu
