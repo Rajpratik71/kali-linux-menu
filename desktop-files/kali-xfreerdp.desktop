@@ -7,4 +7,4 @@ StartupNotify=false
 Terminal=true
 Type=Application
 Categories=05-04-pass-hash;
-X-Kali-Package=xfreerdp
+X-Kali-Package=freerdp2-x11
