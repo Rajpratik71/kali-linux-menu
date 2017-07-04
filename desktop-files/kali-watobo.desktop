@@ -2,7 +2,7 @@
 Name=watobo
 Encoding=UTF-8
 Exec=sh -c "watobo;${SHELL:-bash}"
-Icon=kali-menu.png
+Icon=kali-watobo.png
 StartupNotify=false
 Terminal=false
 Type=Application
