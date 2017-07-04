@@ -1,8 +1,10 @@
 kali-menu (2017.2.1) kali-dev; urgency=medium
 
   * Add icon for watobo (closes 4015)
+  * Update desktop-files/kali-armitage.desktop to execute "msfdb init" first
+    (see bug 3134)
 
- -- Sophie Brun <sophie@freexian.com>  Tue, 16 May 2017 14:00:09 +0200
+ -- Sophie Brun <sophie@freexian.com>  Wed, 12 Jul 2017 16:17:11 +0200
 
 kali-menu (2017.2.0) kali-dev; urgency=medium
 

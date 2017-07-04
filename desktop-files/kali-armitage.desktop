@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=armitage
 Encoding=UTF-8
-Exec=sh -c "armitage;${SHELL:-bash}"
+Exec=sh -c "msfdb init && armitage;${SHELL:-bash}"
 Icon=kali-armitage.png
 StartupNotify=false
 Terminal=false
