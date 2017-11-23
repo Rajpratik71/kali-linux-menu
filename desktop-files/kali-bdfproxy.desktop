@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=bdfproxy
 Encoding=UTF-8
-Exec=sh -c "bdfproxy;${SHELL:-bash}"
+Exec=sh -c "bdf_proxy;${SHELL:-bash}"
 Icon=kali-bdfproxy.png
 StartupNotify=false
 Terminal=true

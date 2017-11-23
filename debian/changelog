@@ -1,3 +1,9 @@
+kali-menu (2017.3.3) UNRELEASED; urgency=medium
+
+  * Update bdfproxy.desktop: replace command bdfproxy by bdf_proxy
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 23 Nov 2017 15:26:08 +0100
+
 kali-menu (2017.3.2) kali-dev; urgency=medium
 
   * Replace veil-evasion by veil
