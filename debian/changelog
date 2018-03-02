@@ -1,3 +1,9 @@
+kali-menu (2018.2.2) kali-dev; urgency=medium
+
+  * Update Dradis to use scripts, not services
+
+ -- Ben Wilson <g0tmi1k@offensive-security.com>  Fri, 02 Mar 2018 12:23:40 +0000
+
 kali-menu (2018.2.1) kali-dev; urgency=medium
 
   * Update BeEF-XSS to use scripts, not services
