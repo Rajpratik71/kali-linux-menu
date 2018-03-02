@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=beef stop
 Encoding=UTF-8
-Exec=sh -c "service beef-xss stop;${SHELL:-bash}"
+Exec=sh -c "beef-xss-stop;${SHELL:-bash}"
 Icon=kali-beef.png
 StartupNotify=false
 Terminal=true
