@@ -1,3 +1,9 @@
+kali-menu (2018.2.3) kali-dev; urgency=medium
+
+  * Replace readpst (transitional package) with pst-utils
+
+ -- Sophie Brun <sophie@freexian.com>  Thu, 29 Mar 2018 09:19:59 +0200
+
 kali-menu (2018.2.2) kali-dev; urgency=medium
 
   * Update Dradis to use scripts, not services
