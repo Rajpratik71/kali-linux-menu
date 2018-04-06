@@ -1,0 +1,29 @@
+When we are going to switch to a normal user by default, we will
+have to update many desktop files where the application is not usable
+without root rights.
+
+If we have to start/stop a system service, we can just keep using
+"systemctl start <service>" as systemctl will generate a proper graphical
+authentication request by itself.
+
+If we have to start an application that runs in a terminal, we probably
+want to invite the user to type "sudo application-name" (or we run it
+directly that way).
+
+If we have to start a graphical application that needs root rights, we
+should probably use "pkexec" (from package policykit-1) to start it to
+get a nice graphical authentication prompt. By default "pkexec" strips the
+DISPLAY and XAUTHORITY environment variables so you have to ship a policy
+file in /usr/share/polkit-1/actions/ with the org.freedesktop.policykit.exec.allow_gui
+annotation set to a non-empty value (see man pkexec). A good sample file
+is the one provided in the "gparted package" (since it's an application
+that typically requires root rights to do anything useful):
+/usr/share/polkit-1/actions/org.gnome.gparted.policy
+
+Note that in the case of gparted, the .desktop file doesn't contain the
+call to "pkexec", it's /usr/bin/gparted itself which calls itself
+again with pkexec if the current user is not root (/usr/bin/gparted is
+a shell script wrapping /usr/sbin/gpartedbin which is the true program).
+
+In any case, you should really read "man polkit" and "man pkexec" to
+understand what can be achieved with this mechanism.
